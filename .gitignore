@@ -12,3 +12,5 @@ dist
 
 # yarn
 yarn-error.log
+
+.envrc
